@@ -1,0 +1,15 @@
+*{margin: 0; padding: 0;}
+.bg00{
+    width: 99vw;
+    height: 99vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+.bg01{background-image: url(img/bg1.png);}
+.bg02{background-image: url(img/bg2.png);}
+.bg03{background-image: url(img/bg3.png);}
+.bg04{background-image: url(img/bg4.png);}
